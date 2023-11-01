@@ -1,0 +1,40 @@
+{
+  "id": "f3e9fa85-f79e-4191-aa8c-8744ac9d1bc5",
+  "name": "Additional Fields & Pages",
+  "publisher": "Sci-Net Ltd",
+  "version": "20.0.5.3",
+  "target": "Cloud",
+  "brief": "Additional fields and pages",
+  "description": "Additional fields and pages",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "applicationInsightsConnectionString": "InstrumentationKey=d26ca36d-e333-43cd-9de5-1ea5c85f8e39;IngestionEndpoint=https://uksouth-0.in.applicationinsights.azure.com/",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "dependencies": [ {
+    "id": "e79859ce-efd6-41c0-b87b-bd8f70fad3e4",
+    "name": "MatrixIQ Customisations",
+    "publisher": "Sci-Net Ltd.",
+    "version":"20.0.5.3"
+  }],
+  "features": [
+    "TranslationFile"
+  ],"idRanges": [
+    {
+      "from": 70200,
+      "to": 70299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
+
+
+
