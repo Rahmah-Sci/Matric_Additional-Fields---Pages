@@ -30,10 +30,7 @@ page 70202 "CPISAF Sales Invoice Lines"
                 {
                     ApplicationArea = All;
                 }
-                // field("No. of Months"; rec."No. of Months")
-                // {
-                //     ApplicationArea = All;
-                // }
+
                 field("Type"; Rec."Type")
                 {
                     ApplicationArea = All;
